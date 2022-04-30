@@ -1,1 +1,1 @@
-# .github
+# NeuRLab repository
